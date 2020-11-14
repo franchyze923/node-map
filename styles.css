@@ -1,0 +1,9 @@
+html, body, #container /*, and all other map parent selectors*/ {
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+  }
+  #mapid {
+    width: auto;
+    height: 100%;
+  }
